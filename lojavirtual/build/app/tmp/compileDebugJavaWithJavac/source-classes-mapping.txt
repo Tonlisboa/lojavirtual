@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+br/com/tonlisboa/lojavirtual/lojavirtual/BuildConfig.java
+ br.com.tonlisboa.lojavirtual.lojavirtual.BuildConfig
